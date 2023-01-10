@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+}
+div{
+    border: 4px solid royalblue;
+    width: 150px;
+}
+p{
+    border: 4px dotted forestgreen;
+}

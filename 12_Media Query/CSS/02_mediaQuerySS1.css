@@ -1,0 +1,14 @@
+h2{
+    text-align: left;
+}
+div{
+    border: 3px dotted yellow;
+    width: 400px;
+}
+p{
+    border: 3px ridge firebrick;
+}
+*{
+    padding: 10px;
+    margin: 10px;
+}

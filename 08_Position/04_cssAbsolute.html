@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        div{
+            position: static;
+            left: 40px;
+            border: 1px solid blue;
+        }
+        .pos_relative{
+            height: 200px;
+            position: relative;
+            left: 50px;
+            top: 20px;
+            border: 2px double lime;
+        }
+        .pos_absolute{
+            position:absolute;
+            left: 80%;
+            bottom: 20px;
+            border: 2px inset indigo;
+            width: 200px;
+        }
+    </style>
+    <title>CSS Absolute Position</title>
+</head>
+<body>
+    <h2>Here are various example of CSS Box Model</h2>
+    <div>
+        <h3>Division 1</h3>
+        <p>CSS is very interesting Thing to learn</p>
+    </div>
+    <div class="pos_relative">
+        <h3>Division 2</h3>
+        <p>HTML is also very interesting Thing to learn</p>
+        <div class="pos_absolute">
+            <h3>Division 3</h3>
+            <p>JS is also very interesting Thing to learn</p>
+        </div>
+    </div>
+</body>
+</html>

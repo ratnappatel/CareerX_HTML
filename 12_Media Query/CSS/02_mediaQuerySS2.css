@@ -1,0 +1,10 @@
+h2{
+    text-align: right;
+}
+div{
+    border: 4px solid royalblue;
+    width: 300px;
+}
+p{
+    border: 4px dotted honeydew;
+}
