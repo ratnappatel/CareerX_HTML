@@ -1,0 +1,26 @@
+
+.site-wrapper {
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 500px;
+	width: 800px;
+	background-color: lightgrey;
+}
+
+.div1 {
+	height: 50px;
+	width: 800px;
+	background-color: rgb(85,225,120);
+}
+
+.div2 {
+	height: 50px;
+	width: 800px;
+	background-color: rgb(134,101,209);
+}
+
+.div3 {
+	height: 50px;
+	width: 800px;
+	background-color: hsl(0,100%,50%);
+}

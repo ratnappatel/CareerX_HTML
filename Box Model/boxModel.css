@@ -1,0 +1,33 @@
+#container{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.div1
+{
+    margin-left:50px;
+    border: 50px solid purple;
+    width:300px;
+    height:200px;
+    text-align: center;
+    padding: 50px;
+}
+
+.div2
+{
+    margin-top:60px;
+    border: 50px solid purple;
+    width:300px;
+    height:200px;
+    text-align: center;
+    padding: 50px;
+    background-color: grey;
+}
+.div3
+{
+    font-size: 20px;
+     font-weight: bold;
+    background-color: lightcoral;  
+}

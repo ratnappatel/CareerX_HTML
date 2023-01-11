@@ -1,0 +1,11 @@
+p
+{
+    text-decoration: double line-through;
+    color: red;
+    font-family: myFont;
+}
+
+@font-face{
+    font-family: myFont;
+    src: url('./assets/Courting\ Free.ttf');
+}
